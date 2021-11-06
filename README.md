@@ -27,7 +27,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
   Projeto feito com o intuito de aprender sobre Bootstrap 5, afim de ganhar experiencia em desenvolvimento utilizando esse Framework.
-  Durante o projeto foi utilizado conseitos de responsividade visando mobile first.
+  Durante o projeto foi utilizado conceitos de responsividade visando mobile first.
   Esse projeto é a criação de um marketplace de uma quitando representando um projeto real em bootstrap 5.
   
   <img align="right" width="550" height="300" src="https://user-images.githubusercontent.com/28414038/140590271-be03ac03-45c8-479b-a60a-e4523fa23dd7.jpeg">
