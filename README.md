@@ -6,7 +6,7 @@ LojaVirtualQuitandaBootstrap
 </h1>
 
 <h3 align="center">
-    🛠 Home page responsiva criada com o conceito de mobile first utilizando tecnologia Bootstrap 5, projeto feito com o intuito de conhecer e aprender mais sobre a ferramenta Boostrap 🖥️
+    🛠 Homepage responsiva criada com o conceito de mobile first utilizando tecnologia Bootstrap 5, projeto feito com o intuito de conhecer e aprender mais sobre a ferramenta Boostrap 🖥️
 </h3>
 
 <h4 align="center">
